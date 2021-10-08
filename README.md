@@ -1,14 +1,14 @@
-# Heart-Disease-Prediction \
-## Introduction \
+# Heart-Disease-Prediction 
+## Introduction 
 The term 'heart disease' refers to various conditions related to heart. Coronary artery disease (CAD), which impairs the blood flow to the heart, 
-is the most prevalent kind of heart disease. It can lead to heart attack since there is a reduced flow of blood. \
+is the most prevalent kind of heart disease. It can lead to heart attack since there is a reduced flow of blood. 
 
-## Problem statement \
-To determine whether or not a person has heart disease. \ 
+## Problem statement 
+To determine whether or not a person has heart disease. 
 
-## Data: \
-* The dataset consists of 272 individuals data. There are 14 columns in the dataset, which are described below. * \
-Information about the columns: \
+## Data: 
+* The dataset consists of 272 individuals data. There are 14 columns in the dataset, which are described below. * 
+Information about the columns: 
 1. sex: sex (1 = male; 0 = female)
 2. age: age in years
 3. cp: chest pain type
