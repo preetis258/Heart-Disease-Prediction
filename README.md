@@ -6,7 +6,7 @@ is the most prevalent kind of heart disease. It can lead to heart attack since t
 ## Problem statement 
 To determine whether or not a person has heart disease. 
 
-## Data: 
+## Data
 * The dataset consists of 272 individuals data. There are 14 columns in the dataset, which are described below. * 
 Information about the columns: 
 1. sex: sex (1 = male; 0 = female)
